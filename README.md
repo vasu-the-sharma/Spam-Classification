@@ -1,5 +1,13 @@
 # Spam-Classification
 
+This is a Python model for Spam Classification built using the famous 'SMS Spam Collection' dataset.
+
+Different algorithms used in processing of the data:
+1. Stemming
+2. Lemminization
+3. Bag of Words
+
+
 
 
 SMS Spam Collection
